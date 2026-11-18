@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local project data
+nightwatch_events.csv
+nightwatch_report.txt
+nightwatch_v2_report.txt
+nightwatch_v2_export.csv
+
+# IDE
+.vscode/
+.idea/
